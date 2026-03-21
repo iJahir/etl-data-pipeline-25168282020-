@@ -1,0 +1,13 @@
+id,salario,motivo_rechazo
+text_88,error,"id_texto,salario_error"
+text_88,text_93,"id_texto,salario_texto"
+error,nan,id_error
+text_88,35,id_texto
+32,text_93,salario_texto
+text_88,nan,id_texto
+error,text_93,"id_error,salario_texto"
+nan,text_93,salario_texto
+nan,error,salario_error
+32,error,salario_error
+error,error,"id_error,salario_error"
+error,35,id_error

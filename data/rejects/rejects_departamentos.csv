@@ -1,0 +1,13 @@
+dept,nombre,motivo_rechazo
+error,error,dato_error
+nan,text_31,dato_texto
+error,nan,dato_error
+nan,error,dato_error
+text_83,text_31,dato_texto
+error,text_31,"dato_error,dato_texto"
+64,text_31,dato_texto
+text_83,75,dato_texto
+text_83,nan,dato_texto
+64,error,dato_error
+text_83,error,"dato_error,dato_texto"
+error,75,dato_error
